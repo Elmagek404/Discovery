@@ -10,3 +10,6 @@ Discovery is a tool that takes a file containing target URLs as input and search
 ```bash
 python3 discovery.py
 ```
+
+## installation 
+git clone https://github.com/Elmagek404/Discovery
