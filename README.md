@@ -12,4 +12,6 @@ python3 discovery.py
 ```
 
 ## installation 
+```
 git clone https://github.com/Elmagek404/Discovery
+```
